@@ -11,7 +11,7 @@ Welcome to the JavaScript Coding Challenges repository! In this repository, you 
 
 ## Getting Started
 Before you dive into the challenges, make sure you have the following tools and technologies installed on your computer:
-- [Node.js]: JavaScript runtime environment.
+- [Node.js](https://nodejs.org/en): JavaScript runtime environment.
 - [Git]: Version control system.
 
 To get started, clone this repository to your local machine using the following command:
