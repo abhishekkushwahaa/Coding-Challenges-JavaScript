@@ -46,14 +46,14 @@ Happy coding and have fun solving the challenges!
 Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
 
 <div>
-  <a href="https://twitter.com/AbhishekKushwaa">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
-  </a>
   <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
   </a>
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
-    <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" width="40" height="40">
+    <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="40" height="40">
+  </a>
+  <a href="https://twitter.com/AbhishekKushwaa">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
   </a>
 </div>
 
