@@ -31,10 +31,10 @@ We encourage you to contribute to this repository by adding your solutions to th
 
 1. Fork this repository to your GitHub account.
 2. Clone the forked repository to your local machine.
-3. Create a new branch for your changes: git checkout -b feature/your-feature-name.
+3. Create a new branch for your changes: `git checkout -b Js-Coding-Challanges`.
 4. Implement your solution or challenge and make sure it works correctly.
-5. Commit your changes: git commit -m "Add a solution for Challenge X".
-6. Push the changes to your forked repository: git push origin feature/your-feature-name.
+5. Commit your changes: `git commit -m "Your commit message about the project"`.
+6. Push the changes to your forked repository: `git push origin Js-Coding-Challanges`.
 7. Create a pull request from your forked repository to this main repository.
 
 ## Feedback and Suggestions
@@ -45,30 +45,16 @@ Happy coding and have fun solving the challenges!
 ## Connect with us :gift_heart:
 Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
 
-- **Twitter**: [@AbhishekKushwaa](https://twitter.com/AbhishekKushwaa)
-- **LinkedIn**: [@abhishekkushwahaa](https://www.linkedin.com/in/abhishekkushwahaa/)
-- **Instagram**: [@abhishekkushwaha.me](https://www.instagram.com/abhishekkushwaha.me/)
-Feel free to reach out to us via social media for any questions or suggestions. We'd love to hear from you.
-
-## Connect with Us on Social Media
-
-Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
-
 <div>
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://your-website.com/twitter-icon.png" alt="Twitter" width="40">
+  <a href="https://twitter.com/AbhishekKushwaa">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
   </a>
-  <a href="https://www.facebook.com/YourFacebookPage">
-    <img src="https://your-website.com/facebook-icon.png" alt="Facebook" width="40">
+  <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
   </a>
-  <a href="https://www.linkedin.com/company/YourLinkedInPage">
-    <img src="https://your-website.com/linkedin-icon.png" alt="LinkedIn" width="40">
-  </a>
-  <a href="https://www.instagram.com/YourInstagramHandle">
-    <img src="https://your-website.com/instagram-icon.png" alt="Instagram" width="40">
+  <a href="https://www.instagram.com/abhishekkushwaha.me/">
+    <img src="https://w7.pngwing.com/pngs/462/874/png-transparent-instagram-logo-icon-instagram-icon-text-logo-sticker-thumbnail.png" width="40" height="40">
   </a>
 </div>
-
-Don't forget to like, follow, and subscribe for exciting updates and discussions!
 
 Feel free to reach out to us via social media for any questions or suggestions. We'd love to hear from you.
