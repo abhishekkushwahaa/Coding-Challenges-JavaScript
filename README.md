@@ -2,11 +2,11 @@
 :wave: Welcome to the JavaScript Coding Challenges repository! In this repository, you will find a collection of coding challenges and solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find challenges suited to your level.
 
 ## Table of Contents
-1. Getting Started
-2. List of Challenges
-3. Contributing
-4. Feedback and Suggestions
-5. Connect with us
+1. [Getting Started](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#getting-started)
+2. [List of Challenges](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#list-of-challenges)
+3. [Contributing](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#contributing)
+4. [Feedback and Suggestions](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#feedback-and-suggestions)
+5. [Connect with us](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#connect-with-us-gift_heart)
 
 ## Getting Started
 Before you dive into the challenges, make sure you have the following tools and technologies installed on your computer:
