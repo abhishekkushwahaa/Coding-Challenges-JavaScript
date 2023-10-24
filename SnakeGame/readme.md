@@ -17,6 +17,9 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 ## Demo
 
 You can play the game online [here]().
+![Photo](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/assets/92770059/5df35ba0-e577-4267-89ce-41e3b19271af)
+
+https://github.com/abhishekkushwahaa/Js-Coding-Challenges/assets/92770059/fe1f3d13-6198-472d-a0e5-ff65394a02b8
 
 ## Getting Started
 
