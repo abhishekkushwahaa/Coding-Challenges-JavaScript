@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+#canvas {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: #333;
+    display: grid;
+    grid-template-rows: repeat(20, 1fr);
+    grid-template-columns: repeat(20, 1fr);
+  }
+  
+  .snake {
+    background-color: #ed1967;
+    border: .1px solid #fff;
+  }
+  
+  .food {
+    background-color: rgb(244, 216, 224);
+    border: .1px solid #333;
+  }
+
+.score {
+    top: 10px;
+    right: 10px;
+    font-size: 15px;
+    font-weight: semi-bold;
+    color: #333;
+  }
+  
