@@ -29,7 +29,7 @@ To run the game locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd snakeGame.js
+   cd SnakeGame/Game.js
    ```
 
 3. Open the `index.html` file in your web browser.
@@ -50,9 +50,9 @@ To run the game locally, follow these steps:
 
 The code for this Snake game is organized as follows:
 
-- `index.html`: The main HTML file that displays the game board.
-- `style.css`: The CSS file for styling the game.
-- `script.js`: The JavaScript file containing the game logic and functionality.
+- `Run.html`: The main HTML file that displays the game board.
+- `Style.css`: The CSS file for styling the game.
+- `Game.js`: The JavaScript file containing the game logic and functionality.
 
 ## Technologies Used
 
