@@ -6,13 +6,11 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
 ## Table of Contents
 
 - [Snake Game in JavaScript :snake:](#snake-game-in-javascript-snake)
-  - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Getting Started](#getting-started)
   - [Game Rules](#game-rules)
   - [Code Structure](#code-structure)
   - [Technologies Used](#technologies-used)
-  - [Contributing](#contributing)
   - [Feedback and Suggestions](#feedback-and-suggestions)
   - [Connect with us :gift\_heart:](#connect-with-us-gift_heart)
 
