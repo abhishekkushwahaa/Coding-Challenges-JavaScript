@@ -32,7 +32,7 @@ To run the game locally, follow these steps:
    cd SnakeGame/Game.js
    ```
 
-3. Open the `index.html` file in your web browser.
+3. Open the `Run.html` file in your web browser.
 
 4. Use the arrow keys on your keyboard to control the snake. Try to eat the food and grow as long as possible without colliding with the walls or yourself.
 
