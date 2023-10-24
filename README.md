@@ -24,7 +24,7 @@ npm install
 You are now ready to tackle the challenges!
 
 ## List of Challenges
-1. [snakeGame](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/01_SnakeGame)
+1. [snakeGame](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/SnakeGame)
 2. [mazeGenerator]()
 
 ## Contributing
