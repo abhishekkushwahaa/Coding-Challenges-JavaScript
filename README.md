@@ -1,7 +1,9 @@
 # JavaScript-Coding-Challenges :boom:
+
 :wave: Welcome to the JavaScript Coding Challenges repository! In this repository, you will find a collection of coding challenges and solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find challenges suited to your level.
 
 ## Table of Contents
+
 1. [Getting Started](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#getting-started)
 2. [List of Challenges](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#list-of-challenges)
 3. [Contributing](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#contributing)
@@ -9,25 +11,41 @@
 5. [Connect with us](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main#connect-with-us-gift_heart)
 
 ## Getting Started
+
 Before you dive into the challenges, make sure you have the following tools and technologies installed on your computer:
+
 - [Node.js](https://nodejs.org/en) - JavaScript runtime environment.
 - [Git](https://git-scm.com/) - Version control system.
 
 To get started, clone this repository to your local machine using the following command:
+
 ```sh
 https://github.com/abhishekkushwahaa/Js-Coding-Challenges.git
 ```
+
 After cloning the repository, navigate to the project folder and run the following command to install any necessary dependencies:
+
 ```sh
 npm install
 ```
+
 You are now ready to tackle the challenges!
 
 ## List of Challenges
-1. [snakeGame](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/SnakeGame)
-2. [mazeGenerator]()
+
+Here is a list of the challenges available in this repository:
+
+[Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/CustomJS)
+
+- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/CustomJS/SetTimeout.js)
+
+[Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects)
+
+- [Snake Game](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects/SnakeGame)
+- [Maze Generator](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects/MazeGenerator)
 
 ## Contributing
+
 We encourage you to contribute to this repository by adding your solutions to the coding challenges or proposing new challenges. To contribute, follow these steps:
 
 1. Fork this repository to your GitHub account.
@@ -39,11 +57,13 @@ We encourage you to contribute to this repository by adding your solutions to th
 7. Create a pull request from your forked repository to this main repository.
 
 ## Feedback and Suggestions
+
 We value your feedback and suggestions for improving this repository. If you have any ideas for new challenges or improvements, or if you find any issues, please open an [issue](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/issues) or create a [pull request](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/pulls).
 
 Happy coding and have fun solving the challenges!
 
 ## Connect with us :gift_heart:
+
 Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
 
 <div>
