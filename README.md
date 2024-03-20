@@ -35,14 +35,14 @@ You are now ready to tackle the challenges!
 
 Here is a list of the challenges available in this repository:
 
-[Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/CustomJS)
+[Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS)
 
-- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/CustomJS/SetTimeout.js)
+- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/SetTimeout.js)
 
-[Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects)
+[Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
-- [Snake Game](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects/SnakeGame)
-- [Maze Generator](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/Projects/MazeGenerator)
+- [Snake Game](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects/SnakeGame)
+- [Maze Generator](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects/MazeGenerator)
 
 ## Contributing
 
