@@ -37,7 +37,8 @@ Here is a list of the challenges available in this repository:
 
 [Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS)
 
-- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/SetTimeout.js)
+- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customSetTimeout.js)
+- [Map](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customMap.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
