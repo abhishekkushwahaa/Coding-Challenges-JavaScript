@@ -40,6 +40,7 @@ Here is a list of the challenges available in this repository:
 - [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customSetTimeout.js)
 - [Map](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customMap.js)
 - [Filter](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customFilter.js)
+- [Reduce](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customReduce.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
