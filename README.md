@@ -43,6 +43,7 @@ Here is a list of the challenges available in this repository:
 - [Reduce](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customReduce.js)
 - [Find](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customFind.js)
 - [Reverse](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/reverseFunc.js)
+- [Slice](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customSlice.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
