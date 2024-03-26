@@ -37,13 +37,13 @@ Here is a list of the challenges available in this repository:
 
 [Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS)
 
-- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customSetTimeout.js)
-- [Map](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customMap.js)
-- [Filter](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customFilter.js)
-- [Reduce](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customReduce.js)
-- [Find](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customFind.js)
-- [Reverse](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/reverseFunc.js)
-- [Slice](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/customSlice.js)
+- [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/SetTimeout.js)
+- [Map](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Map.js)
+- [Filter](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Filter.js)
+- [Reduce](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Reduce.js)
+- [Find](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Find.js)
+- [Reverse](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Reverse.js)
+- [Slice](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Slice.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
