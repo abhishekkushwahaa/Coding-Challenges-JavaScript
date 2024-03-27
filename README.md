@@ -45,6 +45,7 @@ Here is a list of the challenges available in this repository:
 - [Reverse](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Reverse.js)
 - [Slice](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Slice.js)
 - [IndexOf](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/IndexOf.js)
+- [LastIndexOf](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/LastIndexOf.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
