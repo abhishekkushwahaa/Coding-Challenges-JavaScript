@@ -49,6 +49,7 @@ Here is a list of the challenges available in this repository:
 - [Includes](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/Includes.js)
 - [Object Keys](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/ObjectKeys.js)
 - [Object Value](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/ObjectValue.js)
+- [Math Max](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/MathMax.js)
 
 [Projects](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/Projects)
 
