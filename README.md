@@ -35,6 +35,10 @@ You are now ready to tackle the challenges!
 
 Here is a list of the challenges available in this repository:
 
+[Design Pattern](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/DesignPattern)
+
+- [Singleton Pattern](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/DesignPattern/Singleton.js)
+
 [Custom Function or Method](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS)
 
 - [SetTimeout](https://github.com/abhishekkushwahaa/Js-Coding-Challenges/tree/main/CustomJS/SetTimeout.js)
